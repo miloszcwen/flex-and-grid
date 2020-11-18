@@ -138,6 +138,7 @@ height: 50vh;
 }
 footer{
     text-align: right;
-    position: absolute;
+    position: fixed;
     bottom: 0;
+    width: 100%;
 }
